@@ -111,7 +111,11 @@ th {
     font-family: var(--font-primario) ;
     color:var(--cor-terciaria);
     text-decoration: none;
-    
+     display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    align-items: center; 
+    gap: 32px;
 
 }
 
