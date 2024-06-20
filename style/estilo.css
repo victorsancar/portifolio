@@ -251,14 +251,14 @@ th {
 
 @media (max-width: 1200px) {
     .cabecaçlho{
-        padding: 10%;
+        padding: 2%;
     }
     .cabecalho__menu{
         justify-content: center;
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 25%;
+        padding: 15%;
     }
     .apresentacao__conteudo{
         width: auto;
