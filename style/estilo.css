@@ -258,7 +258,7 @@ th {
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 15%;
+        padding: 25%;
     }
     .apresentacao__conteudo{
         width: auto;
