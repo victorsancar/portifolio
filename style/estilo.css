@@ -25,7 +25,8 @@
     font-weight: 600; 
     color: var(--cor-terciaria);
     text-decoration: none;
-    margin-right: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
     
 }
 :root{
