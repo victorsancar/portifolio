@@ -24,7 +24,8 @@
     font-weight: 600; 
     color: var(--cor-terciaria);
     text-decoration: none;
-    margin-right: -20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 :root{
     /* --cor-primaria:#000000; 
@@ -137,8 +138,8 @@ th {
     display: flex;
     flex-direction: column;
     gap: 60px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 .apresentacao__conteudo__titulo{
@@ -269,6 +270,8 @@ th {
     }
     .apresentacao__conteudo{
         width: auto;
+        margin-left: auto;
+        margin-right: auto;
         
     }
     .apresentacao__conteudo__titulo__{
