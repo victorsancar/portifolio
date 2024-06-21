@@ -12,6 +12,9 @@
 .cabecalho__menu{
     display: flex;
     gap: 80px;
+    letter-spacing: 0.3rem;
+    padding: 2.4rem;
+    
     
 
 }
@@ -42,16 +45,16 @@
     
      */
 
-    /* --cor-primaria:#000000;
+    --cor-primaria:#000000;
     --cor-secundaria:#f6f6f6;
     --cor-terciaria:#22d4fd;
     --cor-hover:#272727;
-    --cor-sub:#686D76; */
-
+    --cor-sub:#686D76;
+/* 
     --cor-primaria:#F8F4E1; 
      --cor-secundaria:#AF8F6F; 
      --cor-terciaria: #74512D; 
-     --cor-hover:  #543310;
+     --cor-hover:  #543310; */
 /* 
     --cor-primaria:#240750;
      --cor-secundaria:#344C64; 
@@ -256,6 +259,7 @@ th {
     }
     .cabecalho__menu{
         justify-content: center;
+        padding: auto;
     }
     .apresentacao{
         flex-direction: column-reverse;
