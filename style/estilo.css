@@ -25,7 +25,7 @@
     font-weight: 600; 
     color: var(--cor-terciaria);
     text-decoration: none;
-    margin-left: -30px;
+   
     
     
     
@@ -268,6 +268,9 @@ th {
         justify-content: center;
        
     }
+    .cabecalho__menu__pagina{
+        margin-left: 60px;
+    }
     .apresentacao{
         flex-direction: column-reverse;
         padding: 8%;
@@ -276,6 +279,7 @@ th {
         width: auto;
         margin-left: auto;
         margin-right: auto;
+       
         
     }
     .apresentacao__conteudo__titulo__{
