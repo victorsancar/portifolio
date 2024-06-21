@@ -271,7 +271,7 @@ th {
     .cabecalho__menu__pagina{
         margin-left: auto;
         margin-right: auto;
-        padding: 8%;
+        padding: 20%;
     }
     .apresentacao{
         flex-direction: column-reverse;
