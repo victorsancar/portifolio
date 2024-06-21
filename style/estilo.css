@@ -269,7 +269,8 @@ th {
        
     }
     .cabecalho__menu__pagina{
-        margin-left: -60px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .apresentacao{
         flex-direction: column-reverse;
