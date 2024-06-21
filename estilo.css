@@ -133,7 +133,7 @@ th {
     width: 50%;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 60px;
 }
 
 .apresentacao__conteudo__titulo{
@@ -263,6 +263,11 @@ th {
     }
     .apresentacao__conteudo{
         width: auto;
+        
+    }
+    .apresentacao__conteudo__titulo__{
+        justify-content: center;
+
     }
 }
 
