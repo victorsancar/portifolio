@@ -26,6 +26,7 @@
     color: var(--cor-terciaria);
     text-decoration: none;
    
+   
     
     
     
@@ -270,8 +271,10 @@ th {
     }
     .cabecalho__menu__pagina{
         margin-left: -20px;
-        margin-right: -25px;
-        display: inline-block;
+        margin-right: -45px;
+        
+      
+        
         
     }
     .apresentacao{
